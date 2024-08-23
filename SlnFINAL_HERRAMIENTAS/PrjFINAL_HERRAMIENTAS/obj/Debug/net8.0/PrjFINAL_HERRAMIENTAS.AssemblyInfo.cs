@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrjFINAL_HERRAMIENTAS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7bed257b68ae232267247e068b994bf233c9212")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c794798c226f48dc5392d4222e688afb4464f8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrjFINAL_HERRAMIENTAS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrjFINAL_HERRAMIENTAS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
