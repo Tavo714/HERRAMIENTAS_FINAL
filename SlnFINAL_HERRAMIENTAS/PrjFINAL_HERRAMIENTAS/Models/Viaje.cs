@@ -21,11 +21,10 @@ public partial class Viaje
 
     public string? Eliminado { get; set; }
 
-    public virtual Chofer CodChofNavigation { get; set; } = null!;
+    public virtual Chofer? CodChofNavigation { get; set; }
+    public virtual Ruta? CodRutNavigation { get; set; }
+    public virtual Bus? NroBusNavigation { get; set; }
 
-    public virtual Ruta CodRutNavigation { get; set; } = null!;
-
-    public virtual Bus NroBusNavigation { get; set; } = null!;
 
     public virtual ICollection<Pasajero> Pasajeros { get; set; } = new List<Pasajero>();
 }
