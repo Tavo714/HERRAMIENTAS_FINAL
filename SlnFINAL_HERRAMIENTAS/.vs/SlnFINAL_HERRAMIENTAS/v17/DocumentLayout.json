@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnFINAL_HERRAMIENTAS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A291E859-BEDF-4D54-901E-F42E8BB4A44C}|PrjFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slnfinal_herramientas\\prjfinal_herramientas\\controllers\\chofercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A291E859-BEDF-4D54-901E-F42E8BB4A44C}|PrjFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS.csproj|solutionrelative:prjfinal_herramientas\\controllers\\chofercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A291E859-BEDF-4D54-901E-F42E8BB4A44C}|PrjFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slnfinal_herramientas\\prjfinal_herramientas\\models\\chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A291E859-BEDF-4D54-901E-F42E8BB4A44C}|PrjFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS.csproj|solutionrelative:prjfinal_herramientas\\models\\chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A291E859-BEDF-4D54-901E-F42E8BB4A44C}|PrjFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slnfinal_herramientas\\prjfinal_herramientas\\controllers\\viajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A291E859-BEDF-4D54-901E-F42E8BB4A44C}|PrjFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS.csproj|solutionrelative:prjfinal_herramientas\\controllers\\viajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,6 +55,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Chofer.cs",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS\\Models\\Chofer.cs",
+              "RelativeDocumentMoniker": "PrjFINAL_HERRAMIENTAS\\Models\\Chofer.cs",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS\\Models\\Chofer.cs",
+              "RelativeToolTip": "PrjFINAL_HERRAMIENTAS\\Models\\Chofer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:28:00.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChoferController.cs",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS\\Controllers\\ChoferController.cs",
+              "RelativeDocumentMoniker": "PrjFINAL_HERRAMIENTAS\\Controllers\\ChoferController.cs",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS\\Controllers\\ChoferController.cs",
+              "RelativeToolTip": "PrjFINAL_HERRAMIENTAS\\Controllers\\ChoferController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:25:43.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Viaje.cs",
               "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS\\Models\\Viaje.cs",
               "RelativeDocumentMoniker": "PrjFINAL_HERRAMIENTAS\\Models\\Viaje.cs",
@@ -54,12 +88,11 @@
               "RelativeToolTip": "PrjFINAL_HERRAMIENTAS\\Models\\Viaje.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAA7wBkAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T13:06:05.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T13:06:05.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ViajeController.cs",
               "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS\\Controllers\\ViajeController.cs",
               "RelativeDocumentMoniker": "PrjFINAL_HERRAMIENTAS\\Controllers\\ViajeController.cs",
@@ -72,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Pasajero.cs",
               "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS\\Models\\Pasajero.cs",
               "RelativeDocumentMoniker": "PrjFINAL_HERRAMIENTAS\\Models\\Pasajero.cs",
@@ -80,12 +113,11 @@
               "RelativeToolTip": "PrjFINAL_HERRAMIENTAS\\Models\\Pasajero.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T12:39:37.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T12:39:37.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PasajeroController.cs",
               "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS\\Controllers\\PasajeroController.cs",
               "RelativeDocumentMoniker": "PrjFINAL_HERRAMIENTAS\\Controllers\\PasajeroController.cs",
@@ -97,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS\\Program.cs",
               "RelativeDocumentMoniker": "PrjFINAL_HERRAMIENTAS\\Program.cs",
@@ -109,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS\\appsettings.json",
               "RelativeDocumentMoniker": "PrjFINAL_HERRAMIENTAS\\appsettings.json",
@@ -121,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Bdviajes2024Context.cs",
               "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnFINAL_HERRAMIENTAS\\PrjFINAL_HERRAMIENTAS\\Models\\Bdviajes2024Context.cs",
               "RelativeDocumentMoniker": "PrjFINAL_HERRAMIENTAS\\Models\\Bdviajes2024Context.cs",

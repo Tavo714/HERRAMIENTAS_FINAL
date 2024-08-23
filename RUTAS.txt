@@ -1,0 +1,52 @@
+VIAJES CHOFER RUTAS PASAJEROS
+
+***PASAJERO:
+
+LISTA:
+http://localhost:5140/api/Pasajero/GetPasajero
+
+BUSCAR ID:
+http://localhost:5140/api/Pasajero/GetPasajero/000007
+
+POST:
+http://localhost:5140/api/Pasajero/PostPasajero
+
+PUT:
+http://localhost:5140/api/Pasajero/PutPasajero
+
+DELETE:
+http://localhost:5140/api/Pasajero/DeletePasajero/000243
+
+***VIAJE:
+
+LISTA:
+http://localhost:5140/api/Viaje/GetViajes
+
+BUSCAR ID:
+http://localhost:5140/api/Viaje/GetViaje/100007
+
+POST:
+http://localhost:5140/api/Viaje/PostViaje
+
+PUT:
+http://localhost:5140/api/Viaje/PutViaje
+
+DELETE:
+http://localhost:5140/api/Viaje/DeleteViaje/100084
+
+***CHOFER
+
+LISTA:
+http://localhost:5140/api/Chofer/GetChoferes
+
+BUSCAR ID:
+http://localhost:5140/api/Chofer/GetChofer/C0007
+
+POST:
+http://localhost:5140/api/Chofer/PostChofer
+
+PUT:
+http://localhost:5140/api/Chofer/PutChofer
+
+DELETE:
+http://localhost:5140/api/Chofer/DeleteChofer/C0009

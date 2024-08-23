@@ -17,7 +17,8 @@ public partial class Chofer
 
     public string? Eliminado { get; set; }
 
-    public virtual Categoria CodCatNavigation { get; set; } = null!;
+    public virtual Categoria? CodCatNavigation { get; set; }
+
 
     public virtual ICollection<Viaje> Viajes { get; set; } = new List<Viaje>();
 }
