@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\controllers\\viajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\controllers\\viajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\views\\viaje\\indexviaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\views\\viaje\\indexviaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\models\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\models\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\models\\sp_obtenerpasajerospormes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\models\\sp_obtenerpasajerospormes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\views\\viaje\\deleteviaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\views\\viaje\\deleteviaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\views\\viaje\\editviaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\views\\viaje\\editviaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\views\\viaje\\createviaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\views\\viaje\\createviaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\views\\viaje\\detailsviaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\views\\viaje\\detailsviaje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\models\\sp_obteneringresosporrutaya\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\models\\sp_obteneringresosporrutaya\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\models\\sp_obteneringresospormesya\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\models\\sp_obteneringresospormesya\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\models\\sp_obtenerchoferesconmayorviajespora\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\models\\sp_obtenerchoferesconmayorviajespora\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\models\\ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\models\\ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\models\\pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\models\\pasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|d:\\gitrepositories\\final_herramientas\\slncliente_final_herramientas\\prjcliente_final_herramientas\\models\\chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0E1991-ECB7-4EC3-B9F0-0E217B2D4FA6}|PrjCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS.csproj|solutionrelative:prjcliente_final_herramientas\\models\\chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteViaje.cshtml",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\DeleteViaje.cshtml",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\DeleteViaje.cshtml",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\DeleteViaje.cshtml",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\DeleteViaje.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T16:36:38.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditViaje.cshtml",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\EditViaje.cshtml",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\EditViaje.cshtml",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\EditViaje.cshtml",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\EditViaje.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T16:34:08.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateViaje.cshtml",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\CreateViaje.cshtml",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\CreateViaje.cshtml",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\CreateViaje.cshtml",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\CreateViaje.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T16:26:41.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailsViaje.cshtml",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\DetailsViaje.cshtml",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\DetailsViaje.cshtml",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\DetailsViaje.cshtml",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\DetailsViaje.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T16:12:44.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T15:59:00.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexViaje.cshtml",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\IndexViaje.cshtml",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\IndexViaje.cshtml",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\IndexViaje.cshtml",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Views\\Viaje\\IndexViaje.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T15:58:40.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViajeController.cs",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Controllers\\ViajeController.cs",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Controllers\\ViajeController.cs",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Controllers\\ViajeController.cs",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Controllers\\ViajeController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwFcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:53:58.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sp_ObtenerPasajerosPorMes.cs",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerPasajerosPorMes.cs",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerPasajerosPorMes.cs",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerPasajerosPorMes.cs",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerPasajerosPorMes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:52:18.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sp_ObtenerIngresosPorRutaYA\u00F1o.cs",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerIngresosPorRutaYA\u00F1o.cs",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerIngresosPorRutaYA\u00F1o.cs",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerIngresosPorRutaYA\u00F1o.cs",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerIngresosPorRutaYA\u00F1o.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:51:47.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sp_ObtenerIngresosPorMesYA\u00F1o.cs",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerIngresosPorMesYA\u00F1o.cs",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerIngresosPorMesYA\u00F1o.cs",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerIngresosPorMesYA\u00F1o.cs",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerIngresosPorMesYA\u00F1o.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:51:19.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sp_ObtenerChoferesConMayorViajesPorA\u00F1o.cs",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerChoferesConMayorViajesPorA\u00F1o.cs",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerChoferesConMayorViajesPorA\u00F1o.cs",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerChoferesConMayorViajesPorA\u00F1o.cs",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\sp_ObtenerChoferesConMayorViajesPorA\u00F1o.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:50:52.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Categoria.cs",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Categoria.cs",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:50:01.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Bus.cs",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Bus.cs",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Bus.cs",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Bus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:49:31.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pasajero.cs",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Pasajero.cs",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Pasajero.cs",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Pasajero.cs",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Pasajero.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:48:13.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ruta.cs",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Ruta.cs",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Ruta.cs",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Ruta.cs",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Ruta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:47:42.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Chofer.cs",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Chofer.cs",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Chofer.cs",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Chofer.cs",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Chofer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:47:04.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Viaje.cs",
+              "DocumentMoniker": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Viaje.cs",
+              "RelativeDocumentMoniker": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Viaje.cs",
+              "ToolTip": "D:\\GITrepositories\\FINAL_HERRAMIENTAS\\SlnCLIENTE_FINAL_HERRAMIENTAS\\PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Viaje.cs",
+              "RelativeToolTip": "PrjCLIENTE_FINAL_HERRAMIENTAS\\Models\\Viaje.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:44:33.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
