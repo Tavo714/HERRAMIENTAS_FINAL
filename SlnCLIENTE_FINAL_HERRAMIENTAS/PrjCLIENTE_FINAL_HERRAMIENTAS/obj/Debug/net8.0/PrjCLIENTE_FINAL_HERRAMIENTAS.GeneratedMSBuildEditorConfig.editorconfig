@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\GITrepositories\FINAL_HERRAMIENTAS\SlnCLIENTE_FINAL_HERRAMIENTAS\PrjCLIENTE_FINAL_HERRAMIENTAS
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/GITrepositories/FINAL_HERRAMIENTAS/SlnCLIENTE_FINAL_HERRAMIENTAS/PrjCLIENTE_FINAL_HERRAMIENTAS/Views/Chofer/CreateChofer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hvZmVyXENyZWF0ZUNob2Zlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GITrepositories/FINAL_HERRAMIENTAS/SlnCLIENTE_FINAL_HERRAMIENTAS/PrjCLIENTE_FINAL_HERRAMIENTAS/Views/Chofer/DeleteChofer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hvZmVyXERlbGV0ZUNob2Zlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GITrepositories/FINAL_HERRAMIENTAS/SlnCLIENTE_FINAL_HERRAMIENTAS/PrjCLIENTE_FINAL_HERRAMIENTAS/Views/Chofer/DetailsChofer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hvZmVyXERldGFpbHNDaG9mZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GITrepositories/FINAL_HERRAMIENTAS/SlnCLIENTE_FINAL_HERRAMIENTAS/PrjCLIENTE_FINAL_HERRAMIENTAS/Views/Chofer/EditChofer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hvZmVyXEVkaXRDaG9mZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GITrepositories/FINAL_HERRAMIENTAS/SlnCLIENTE_FINAL_HERRAMIENTAS/PrjCLIENTE_FINAL_HERRAMIENTAS/Views/Chofer/IndexChofer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hvZmVyXEluZGV4Q2hvZmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/GITrepositories/FINAL_HERRAMIENTAS/SlnCLIENTE_FINAL_HERRAMIENTAS/PrjCLIENTE_FINAL_HERRAMIENTAS/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
